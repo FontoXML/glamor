@@ -1,8 +1,9 @@
 {
-  "name": "glamor",
+  "name": "@fontoxml/glamor",
+  "private": true,
   "version": "2.20.40-fonto.0",
-  "description": "inline css for component systems",
-  "main": "lib/index.js",
+  "description": "heavily stripped down glamor fork for Fonto internal use only, do not use for anything else",
+  "main": "src/index.js",
   "typings": "index.d.ts",
   "files": [
     "src",
@@ -10,5 +11,6 @@
   ],
   "author": "Sunil Pai <threepointone@gmail.com>",
   "homepage": "https://github.com/threepointone/glamor",
+  "repository": "https://github.com/FontoXML/glamor",
   "license": "MIT"
 }
